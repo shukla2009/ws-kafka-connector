@@ -1,0 +1,27 @@
+{
+  "name": "ws-kafka-connector",
+  "version": "1.0.0",
+  "description": "Send Socket Data to Kafka",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shukla2009/ws-kafka-connector.git"
+  },
+  "keywords": [
+    "kafka",
+    "websocket"
+  ],
+  "author": "Rahul Shukla shukla2009@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shukla2009/ws-kafka-connector/issues"
+  },
+  "homepage": "https://github.com/shukla2009/ws-kafka-connector#readme",
+  "dependencies": {
+    "kafka-node": "^5.0.0",
+    "ws": "^7.3.1"
+  }
+}
