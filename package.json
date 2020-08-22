@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/shukla2009/ws-kafka-connector#readme",
   "dependencies": {
-    "kafka-node": "^5.0.0",
+    "kafkajs": "^1.12.0",
     "ws": "^7.3.1"
   }
 }
